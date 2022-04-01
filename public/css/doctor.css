@@ -1,0 +1,199 @@
+ 
+.alll
+{
+	height:3000px;
+	overflow: hidden;
+}
+.over
+{ 
+  height:700px;	
+}
+.frist
+{
+	height:300px;
+	background-color: #001a33;
+	margin-top:20px;
+	margin-left:20px;
+	margin-right:20px;
+}
+.bi-check-square-fill
+{
+	color:red;
+}
+#headercolor ,#home ,#doctor
+{
+
+	  color:white;
+}
+#home
+{
+  margin-left:90px; 
+  color:white;  
+}
+#doctor
+{
+	   margin-left:30px;
+	     color:white;
+}
+#search
+{
+	 border: none;
+	opacity: 0.2;
+	border-bottom-style:solid;
+	  color:white;
+}
+.one
+{
+	margin-left:130px;
+	height:450px;
+	width:1200px;
+}
+.second
+{
+	height:400px;
+}
+.flexx
+{
+	display:flex;
+}
+.two
+{
+font-family: 'Brush Script MT', cursive;
+margin-left:15%;
+size:60px;
+}
+.three
+{
+	 width:600px;
+	 height:50px;
+	 margin-left:50px;
+	 background-color:#bf8040;
+}
+.four
+{
+	margin-left:40px;
+	color:white;
+	
+	margin-top:10px;
+}
+.five ,.six
+{
+	width:1300px;
+	margin-left:10%;
+	margin-top:30px;
+}
+.six
+{
+	margin-top:70px;
+}
+
+.third
+{
+	height:590px;
+	background-color:#c2c2a3;
+	margin-left:20px;
+	margin-right:20px;
+	display:flex;
+
+	
+}
+.seven
+{
+	padding-top:60px;
+	margin-left:58%;
+	font-family: 'Brush Script MT', cursive;
+}
+.eight
+{
+	margin-top:50px;
+	width:400px;
+	margin-left:90px;
+	
+}
+.flexx
+{
+	display:flex;
+}
+.nine ,.ninee
+{
+	 border-radius: 50%;
+     height:80px;
+	 width:105px;
+	 margin-top:60px;
+	 margin-left:230px;
+}
+.ten ,.tenn
+{
+	 margin-top:60px;
+	 margin-left:60px;
+	 color:white;
+}
+.eleven
+{
+	margin-left:60px;
+	width:480px;
+}
+
+.ninee
+{
+	 margin-top:30px;
+}
+.tenn
+{
+	 margin-top:30px;
+
+}
+.fourth
+{
+	height:300px;
+	
+}
+.twelve
+{
+	margin-top:100px;
+	margin-left:50%;
+	font-family: 'Brush Script MT', cursive;
+}
+.thirteen
+{
+	margin-left:16%;
+	margin-top:60px;
+	width:1000px;
+}
+.divone 
+{
+	 width:300px;
+	 height:500px;
+	 background-color:#001a33;
+	 margin-left:65px;
+	 margin-top:80px;
+}
+.imgone
+{
+	width:260px;
+	height:200px;
+	margin-left:20px;
+	margin-right:20px;
+	margin-top:20px;
+}
+.nameone
+{
+	margin-left:70px;
+	margin-top:30px;
+	color:#ffff4d;
+}
+.pone
+{
+	margin-top:10px;
+	width:240px;
+	margin-left:40px;
+	margin-right:40px;
+	color:white;
+}
+.onebutton
+{
+	margin-left:35%;
+	margin-top:200px;
+	width:400px;
+	background-color:#ffff4d;
+}

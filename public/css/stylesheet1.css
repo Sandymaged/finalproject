@@ -1,0 +1,81 @@
+body {
+  color: #222;
+  background:#cfd3d6;
+  font-family:  monospace;
+  font-size: 20px;
+}
+.frist
+{
+	margin-top: -30px;
+color:black ;
+	
+}
+.frist a{
+	color:black ;
+}
+.main{
+  background-image: linear-gradient(#376BF7, #cfd3d6);
+  padding: 60px 0;
+}
+a{
+	color: #376BF7;
+}
+a:hover{
+	color: red;
+}
+.btn-primary{
+	background-image: linear-gradient(#376BF7, #cfd3d6);
+	border: none;
+	background-color: #cfd3d6;
+	width: 120px;
+	margin-left: 200px;
+}
+.btn-primary:hover ,.btn-primary:focus{
+	color: blue;
+	background-color: #a0aebb;
+}
+
+.display-2{
+	text-shadow:5px 5px 4px #cfd3d6;
+}
+p{
+	font-size:30px;
+}
+
+#signin-image{
+	width: 80%;
+	height: 70%
+}
+.form-check p{
+	font-size:80%; 
+}
+#ins{
+	font-size:85%; 
+
+}
+input[type=password]:focus {
+  border: 3px solid #cfd3d6;
+}
+input[type=text]:focus {
+  border: 3px solid #cfd3d6;
+}
+input[type=date]:focus {
+  border: 3px solid #cfd3d6;
+}
+h6{
+	font-weight:bold;
+}
+label{
+	font-size:90%;
+}
+.x{
+	font-size: 15px;
+	color:grey;
+	margin-left: 170px;
+}
+.y{
+	font-size: 14px;
+	color:grey;
+	margin-left: 30px;
+
+}

@@ -1,0 +1,94 @@
+.all
+{
+	height:5000px;
+	 overflow: hidden;
+}
+.frist
+{
+	height:700px;
+	background-image:url("/img/slide7.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+	margin-top:20px;
+	margin-left:20px;
+	margin-right:20px;
+}
+.bi-check-square-fill
+{
+	color:red;
+}
+#headercolor ,#home ,#doctor
+{
+	color:black;
+}
+#home
+{
+  margin-left:90px;  
+}
+#doctor
+{
+	   margin-left:30px;
+	   
+}
+#search
+{
+	 border: none;
+	opacity: 0.2;
+	border-bottom-style:solid;
+}
+.second
+{
+	display:flex;
+	background-color: rgb(218, 216, 226);
+}
+.hone
+{
+	width:400px;
+	margin-top:100px;
+	margin-left:270px;
+}
+.htwo
+{
+	margin-left:60px;
+	margin-top:100px;
+	width:500px;
+}
+.one ,.two
+{
+	border: 5px outset #adc2eb;
+	border-radius: 50%;
+	width:100px;
+	height:100px;
+	margin-left:200px;
+	margin-top:130px;
+	padding-top:15px;
+	padding-left:40px;
+	
+}
+.two
+{
+	margin-left:400px;
+}
+.bluee
+{
+	color:blue;
+}
+.hthree ,.hfour
+{
+	margin-left:80px;
+	width:400px;
+	margin-top:40px;
+	color:gray;
+}
+.hfour
+{
+	margin-left:110px;
+}
+.onephoto
+{
+	margin-top:130px;
+	margin-left:60px;
+	width:300px;
+	height:300px;
+	
+}

@@ -1,0 +1,99 @@
+.page
+{
+	background-color: #d2f5f5;
+}
+.one
+{
+	
+	
+	
+	
+	margin-left:10px;
+	margin-right:20px;
+}
+.text
+{
+	float: right;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 35px;
+	color: rgb(49, 22, 22);
+	margin-right: 300px;
+	margin-top: 40px;
+}
+.pic{
+
+	display: inline-block;
+	width:390px;
+	height: 190px;
+	margin-left: 135px;
+}
+#navsize
+{
+ height:60px;
+
+}
+.fs-1	
+{
+   font-size: 2rem;
+}
+
+#home
+{
+	margin-left:90px;
+}
+#doctor
+{
+	
+	margin-left:30px;
+}
+#search
+{
+	border: none;
+	opacity: 0.2;
+	border-bottom-style:solid;
+}
+.all
+{
+      display: flex;
+}
+
+.whitediv
+{
+	width:1000px;
+	height:1800px;
+	
+    background-color: #f0f5f5;
+	opacity:0.3px;
+	border-style:solid;
+	border-color:#e0ebeb;
+	border-top-color:black;
+	margin-left: 135px;
+}
+.pragraph
+{
+	margin-left:15%;
+	margin-top:30px;
+}
+#male
+{
+	margin-left:22%;
+	margin-top:20px;
+}
+.line
+{
+	width:800px;
+	height:3px;
+	margin-top:5px;
+	background-color:#e0ebeb;
+}
+.btn_submit
+{
+	background-color: rgb(83, 83, 214);
+	border-color: rgb(83, 83, 214);
+	color: cornsilk;
+	float: right;
+	width: 150px;
+
+	font-size: 30px;
+}

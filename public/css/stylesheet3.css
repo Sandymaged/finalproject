@@ -1,0 +1,57 @@
+body {
+  line-height: 1.8;
+  color: #222;
+  font-family: 'Courier New', monospace;
+}
+.main{
+  background-image: url("/img/bgg.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: 1600px 1000px;
+  padding: 150px 0; 
+  margin-top: -150px;
+}
+a{
+	color: black;
+	text-decoration: none;
+}
+a:hover{
+	color: red;
+}
+.btn-primary{
+	color: black;
+	border: none;
+	background-color: #cfd3d6;
+}
+.btn-primary:hover ,.btn-primary:focus{
+	color: black;
+	background-color: #a0aebb;
+}
+#signup-image{
+	width: 30%;
+	height: 70%
+}
+.display-2{
+	text-shadow:5px 5px 4px #cfd3d6;
+}
+p{
+	font-size:30px;
+}
+
+#signin-image{
+	width: 80%;
+	height: 70%
+}
+p{
+	font-size:90%; 
+}
+input[type=password]:focus {
+  border: 3px solid #cfd3d6;
+}
+input[type=text]:focus {
+  border: 3px solid #cfd3d6;
+}
+input[type=date]:focus {
+  border: 3px solid #cfd3d6;
+}
